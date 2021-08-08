@@ -1,4 +1,4 @@
-# **RateyourHeartbeat**
+# **Rate your Heartbeat!**
 
 A mobile application that monitors your heart rate every time you open the application. It will save and keep track of your heartbeats every single day.
 
