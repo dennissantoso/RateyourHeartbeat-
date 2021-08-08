@@ -7,3 +7,6 @@ This application will also find your minimum, maximum, and average heartbeat eac
 The app is safe to use for everyone of any age.
 
 Don’t worry about it, just click it!
+
+
+https://www.figma.com/file/ORDOM83EfYHgMPeC8OPAyD/CALARTS-UI-PROJECT-1?node-id=4%3A138
